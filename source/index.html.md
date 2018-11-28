@@ -7,7 +7,7 @@ title: Home
 search: true
 ---
 
-# Welcome to XDAEX API<br \>欢迎使用 XDAEX API
+# Welcome to Hashkey Pro API<br \>欢迎使用 Hashkey Pro API
 
 **Following functions can be implemented easily with API：**
 
@@ -17,11 +17,11 @@ search: true
 * Query open orders
 * Cancel open orders by volume
 
-**Please read [XDAEX API Introduction](https://yushizhao.github.io/XDAEXINTRO/) before using API.**
+**Please read [Hashkey Pro API Introduction](https://yushizhao.github.io/XDAEXINTRO/) before using API.**
 
-**Please read [Introduction to Preview Environment](https://yushizhao.github.io/XDAEXINTROPRE/) for details of XDAEX API preview environment.**
+**Please read [Introduction to Preview Environment](https://yushizhao.github.io/XDAEXINTROPRE/) for details of Hashkey Pro API preview environment.**
 
-Please sign in xdaex.com and visit "User Center - API Interface" to manage your API-KEY.
+Please sign in pro.hashkey.com and visit "User Center - API Interface" to manage your API-KEY.
 
 Frequently asked questions [FAQ](https://support.xdaex.com/hc/en-us/search?utf8=%E2%9C%93&query=api)
 
@@ -33,16 +33,16 @@ Frequently asked questions [FAQ](https://support.xdaex.com/hc/en-us/search?utf8=
 * 查询自己当前尚未成交的挂单
 * 批量撤单
 
-**操作前请您务必阅读 [XDAEX 程序化交易接入说明](https://yushizhao.github.io/XDAEXINTRO/)。**
+**操作前请您务必阅读 [Hashkey Pro 程序化交易接入说明](https://yushizhao.github.io/XDAEXINTRO/)。**
 
-**想了解XDAEX程序化交易预览环境，请您阅读[预览环境接入说明](https://yushizhao.github.io/XDAEXINTROPRE/)。**
+**想了解 Hashkey Pro 程序化交易预览环境，请您阅读[预览环境接入说明](https://yushizhao.github.io/XDAEXINTROPRE/)。**
 
-请登录 xdaex.com 并访问 “个人中心 - API接口” 以管理您的 API-KEY。
+请登录 pro.hashkey.com 并访问 “个人中心 - API接口” 以管理您的 API-KEY。
 
 常见问题请参考 [FAQ](https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api)
 
-# 1. XDAEX API Introduction<br \>&emsp;XDAEX 程序化交易接入说明
-* [XDAEX API Introduction ^XDAEX 程序化交易接入说明](https://yushizhao.github.io/XDAEXINTRO/)
+# 1. Hashkey Pro API Introduction<br \>&emsp;Hashkey Pro 程序化交易接入说明
+* [Hashkey Pro API Introduction ^Hashkey Pro 程序化交易接入说明](https://yushizhao.github.io/XDAEXINTRO/)
 * [Introduction to Preview Environment ^预览环境接入说明](https://yushizhao.github.io/XDAEXINTROPRE/)
 * [API Letter of Agreement(PDF)](https://github.com/XDAEX/API/raw/master/documents/API_Letter_of_Agreement_EN.pdf) ^[API协议信(PDF)](https://github.com/XDAEX/API/raw/master/documents/API_Letter_of_Agreement_CN.pdf)
 * [API Application Information(PDF)](https://github.com/XDAEX/API/raw/master/documents/API_Application_Information_EN.pdf) ^[API申请信息表(PDF)](https://github.com/XDAEX/API/raw/master/documents/API_Application_Information_CN.pdf)
