@@ -17,9 +17,9 @@ search: true
 * Query open orders
 * Cancel open orders by volume
 
-**Please read [HashKey Pro API Introduction](https://yushizhao.github.io/XDAEXINTRO/) before using API.**
+**Please read [HashKey Pro API Introduction](https://hashkeypro.github.io/api-intro/) before using API.**
 
-**Please read [Introduction to Preview Environment](https://yushizhao.github.io/XDAEXINTROPRE/) for details of HashKey Pro API preview environment.**
+**Please read [Introduction to Preview Environment](https://hashkeypro.github.io/api-intro-pre/) for details of HashKey Pro API preview environment.**
 
 Please sign in pro.hashkey.com and visit "User Center - API Interface" to manage your API-KEY.
 
@@ -33,17 +33,17 @@ Frequently asked questions [FAQ](https://support.xdaex.com/hc/en-us/search?utf8=
 * 查询自己当前尚未成交的挂单
 * 批量撤单
 
-**操作前请您务必阅读 [HashKey Pro 程序化交易接入说明](https://yushizhao.github.io/XDAEXINTRO/)。**
+**操作前请您务必阅读 [HashKey Pro 程序化交易接入说明](https://hashkeypro.github.io/api-intro/)。**
 
-**想了解 HashKey Pro 程序化交易预览环境，请您阅读[预览环境接入说明](https://yushizhao.github.io/XDAEXINTROPRE/)。**
+**想了解 HashKey Pro 程序化交易预览环境，请您阅读[预览环境接入说明](https://hashkeypro.github.io/api-intro-pre/)。**
 
 请登录 pro.hashkey.com 并访问 “个人中心 - API接口” 以管理您的 API-KEY。
 
 常见问题请参考 [FAQ](https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api)
 
 # 1. HashKey Pro API Introduction<br \>&emsp;HashKey Pro 程序化交易接入说明
-* [HashKey Pro API Introduction ^HashKey Pro 程序化交易接入说明](https://yushizhao.github.io/XDAEXINTRO/)
-* [Introduction to Preview Environment ^预览环境接入说明](https://yushizhao.github.io/XDAEXINTROPRE/)
+* [HashKey Pro API Introduction ^HashKey Pro 程序化交易接入说明](https://hashkeypro.github.io/api-intro/)
+* [Introduction to Preview Environment ^预览环境接入说明](https://hashkeypro.github.io/api-intro-pre/)
 * [API Letter of Agreement(PDF)](https://github.com/XDAEX/API/raw/master/documents/API_Letter_of_Agreement_EN.pdf) ^[API协议信(PDF)](https://github.com/XDAEX/API/raw/master/documents/API_Letter_of_Agreement_CN.pdf)
 * [API Application Information(PDF)](https://github.com/XDAEX/API/raw/master/documents/API_Application_Information_EN.pdf) ^[API申请信息表(PDF)](https://github.com/XDAEX/API/raw/master/documents/API_Application_Information_CN.pdf)
 
@@ -51,11 +51,11 @@ Frequently asked questions [FAQ](https://support.xdaex.com/hc/en-us/search?utf8=
 
 * For production environment and test environment ^生产环境与测试环境:
 
-  [API Specification ^API说明文档 v4.2.0](https://yushizhao.github.io/XDAEXAPI/)
+  [API Specification ^API说明文档 v4.2.0](https://hashkeypro.github.io/api-spec/)
 
 * For preview environment ^预览环境:
 
-  [API Specification ^API说明文档 v4.2.0](https://yushizhao.github.io/XDAEXAPI/)
+  [API Specification ^API说明文档 v4.2.0](https://hashkeypro.github.io/api-spec/)
 
 # 3. Sample Code<br \>&emsp;示例代码
 ## 3.1. REST Interface<br \>REST 接口
