@@ -44,8 +44,8 @@ Frequently asked questions [FAQ](https://support.xdaex.com/hc/en-us/search?utf8=
 # 1. HashKey Pro API Introduction<br \>&emsp;HashKey Pro 程序化交易接入说明
 * [HashKey Pro API Introduction ^HashKey Pro 程序化交易接入说明](https://hashkeypro.github.io/api-intro/)
 * [Introduction to Preview Environment ^预览环境接入说明](https://hashkeypro.github.io/api-intro-pre/)
-* [API Letter of Agreement(PDF)](https://github.com/XDAEX/API/raw/master/documents/API_Letter_of_Agreement_EN.pdf) ^[API协议信(PDF)](https://github.com/XDAEX/API/raw/master/documents/API_Letter_of_Agreement_CN.pdf)
-* [API Application Information(PDF)](https://github.com/XDAEX/API/raw/master/documents/API_Application_Information_EN.pdf) ^[API申请信息表(PDF)](https://github.com/XDAEX/API/raw/master/documents/API_Application_Information_CN.pdf)
+* [API Letter of Agreement(PDF)](https://github.com/hashkeypro/api-src/raw/master/doc/API_Letter_of_Agreement_EN%20HashKey%20Pro.pdf) ^[API协议信(PDF)](https://github.com/hashkeypro/api-src/raw/master/doc/API_Letter_of_Agreement_CN%20HashKey%20Pro.pdf)
+* [API Application Information(PDF)](https://github.com/hashkeypro/api-src/raw/master/doc/API_Application_Information_EN%20HK%20PRO.pdf) ^[API申请信息表(PDF)](https://github.com/hashkeypro/api-src/raw/master/doc/API_Application_Information_CN%20HK%20PRO.pdf)
 
 # 2. API Specification<br \>&emsp;API说明文档
 
