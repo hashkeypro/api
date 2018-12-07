@@ -23,7 +23,7 @@ search: true
 
 Please sign in pro.hashkey.com and visit "User Center - API Interface" to manage your API-KEY.
 
-Frequently asked questions [FAQ](https://support.xdaex.com/hc/en-us/search?utf8=%E2%9C%93&query=api)
+Frequently asked questions [FAQ](https://support.pro.hashkey.com/hc/en-us/search?utf8=%E2%9C%93&query=API)
 
 **通过 API 可以快速实现以下功能：**
 
@@ -39,7 +39,7 @@ Frequently asked questions [FAQ](https://support.xdaex.com/hc/en-us/search?utf8=
 
 请登录 pro.hashkey.com 并访问 “个人中心 - API接口” 以管理您的 API-KEY。
 
-常见问题请参考 [FAQ](https://support.xdaex.com/hc/zh-cn/search?utf8=✓&query=api)
+常见问题请参考 [FAQ](https://support.pro.hashkey.com/hc/zh-cn/search?utf8=%E2%9C%93&query=API)
 
 # 1. HashKey Pro API Introduction<br \>&emsp;HashKey Pro 程序化交易接入说明
 * [HashKey Pro API Introduction ^HashKey Pro 程序化交易接入说明](https://hashkeypro.github.io/api-intro/)
