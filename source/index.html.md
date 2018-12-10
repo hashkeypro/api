@@ -58,20 +58,9 @@ Frequently asked questions [FAQ](https://support.pro.hashkey.com/hc/en-us/search
   [API Specification ^API说明文档 v4.2.0](https://hashkeypro.github.io/api-spec/)
 
 # 3. Sample Code<br \>&emsp;示例代码
-## 3.1. REST Interface<br \>REST 接口
-* Java
-    +  [Java SDK](https://github.com/XDAEX/API/raw/master/java/xdaex-trading-sdk-1.0.jar)
-    +  [Java Sample](https://github.com/XDAEX/API/wiki/REST_sample_java)
-* Python
-    +  [Python Sample](https://github.com/XDAEX/API/wiki/REST_sample_python)
-* Golang
-    +  [Golang Package](https://github.com/XDAEX/API/tree/master/golang/eccutils)
-    +  [Golang Sample](https://github.com/XDAEX/API/wiki/REST_sample_golang)
-* C++
-    +  [C++ header](https://github.com/XDAEX/API/raw/master/cpp/eccutils.hpp)
-    +  [C++ Sample](https://github.com/XDAEX/API_Docs/wiki/REST_sample_cpp)
 
-## 3.2. WebSocket Subscription<br \>WebSocket 订阅
-* [JavaScript](https://github.com/XDAEX/API/wiki/WebSocket_subscription_sample_javascript)
-* [Golang](https://github.com/XDAEX/API/wiki/WebSocket_subscription_sample_golang)
-* [C++](https://github.com/XDAEX/API/wiki/WebSocket_subscription_sample_cpp)
+* [Golang](https://github.com/hashkeypro/api-src/tree/master/golang)
+* [Python](https://github.com/hashkeypro/api-src/tree/master/python)
+* [C++](https://github.com/hashkeypro/api-src/tree/master/cpp)
+* [JavaScript](https://github.com/hashkeypro/api-src/tree/master/javascript)
+* [Java](https://github.com/hashkeypro/api-src/tree/master/java)
