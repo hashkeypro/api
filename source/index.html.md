@@ -59,7 +59,7 @@ Frequently asked questions [FAQ](https://support.pro.hashkey.com/hc/en-us/search
 
 * For preview environment ^预览环境:
 
-  [API Specification ^API说明文档 v4.2.0](https://hashkeypro.github.io/api-spec/)
+  [API Specification ^API说明文档 v4.3.0](https://hashkeypro.github.io/api-spec-pre/)
 
 # 3. Sample Code<br \>&emsp;示例代码
 
